@@ -1,8 +1,4 @@
-.github/workflows/windows-rdp.yml
 
-key : TAILSCALE_AUTHKEY
-
------------------------
 name: Windows Cloud RDP
 
 on:
